@@ -8,6 +8,7 @@ This Excel example demonstrates how to minimize loss to achieve matching input a
 
 This simple two-input problem demonstrates that a higher learning rate leads to faster loss reduction. A lower learning rate requires more training epochs (iterations) to approach zero loss.
 
+Learning rate 0.1
 <img width="360" alt="Screenshot 2024-03-02 at 02 03 10" src="https://github.com/rahuldsce/ERA-V2/assets/7678352/9d1adee2-11ef-4d7a-9083-8ae90674b1e7">
 <img width="362" alt="Screenshot 2024-03-02 at 02 03 01" src="https://github.com/rahuldsce/ERA-V2/assets/7678352/261f175f-7a33-4c35-bbaa-300a5812a6cc">
 <img width="364" alt="Screenshot 2024-03-02 at 02 02 53" src="https://github.com/rahuldsce/ERA-V2/assets/7678352/93149f38-60c6-401f-a664-5254370f7573">
