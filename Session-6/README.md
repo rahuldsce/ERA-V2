@@ -1,1 +1,1 @@
-Session 6 - Backpropagation & Architectural Basics
+# Session 6 - Backpropagation & Architectural Basics
