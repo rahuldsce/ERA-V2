@@ -26,6 +26,6 @@ self.dp2 = nn.Dropout2d(0.1)
 self.conv6 = nn.Conv2d(16, 10, 7)
 
 
-No parameters: 17,450
-Epochs: 20
-Accuracy: 99.42%
+## No parameters: 17,450
+## Epochs: 20
+## Accuracy: 99.42%
