@@ -1,6 +1,7 @@
-Assignment 7
-Dataset : MNIST
-Target : <8K Parameters, Validation Accuracy : 99.4
+# Assignment 7
+## Dataset : MNIST
+### Target : <8K Parameters, Validation Accuracy : 99.4
+
 Absract:
 Design a network to achieve validation accuracy of 99.4 using less than 8K parameters. I had design a network with 7,668 parameters was able to achieve validation accuracy of 99.41 using regularization, dropout, image augmentation and then I reduced the parameters further to 6,765 parameters and I was able to acheive validation accuracy of 99.52 %
 
